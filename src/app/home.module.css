@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  gap: 100px;
+  height: 100vh;
+}
+
+.textContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 50px;
+}
+
+.HomeDis {
+  font-size: 20px;
+}
+
+.HomeTitle {
+  font-size: 96px;
+}
+
+.buttionContainer{
+    display: flex;
+    gap: 10px;
+}
+
+.HomeButtion{
+    padding: 20px;
+    border: none;
+    border-radius: px;
+    background: rgb(199, 199, 199);
+    color: black;
+    min-width: 120px;
+}
+
+.HomeButtion:first-child{
+  background: var(--btn);
+  color: var(--text);
+}
+
+.imageContainer {
+  flex: 1;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
