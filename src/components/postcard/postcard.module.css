@@ -27,7 +27,18 @@
 }
 
 .title {
+  width: 90%;
   font-size: 24px;
   margin-bottom: 20px;
 }
 
+.des{
+  width: 90%;
+  margin-bottom: 20px;
+  font-weight: 300;
+  color: gray;
+}
+
+.link{
+  text-decoration: underline;
+}
