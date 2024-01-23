@@ -75,7 +75,7 @@ const AboutPage = () => {
 
         <div className={styles.imageContainer}>
           <Image alt="about" src={aboutimage4} width={600} height={600} />
-        </div>
+        </div>    
       </div>
     </div>
   );

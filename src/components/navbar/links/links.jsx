@@ -16,6 +16,10 @@ const links = [
     title: "Business",
     path: "/business",
   },
+  {
+    title: "Blog",
+    path: "/blog",
+  },
 ];
 
 //TEMPORY
